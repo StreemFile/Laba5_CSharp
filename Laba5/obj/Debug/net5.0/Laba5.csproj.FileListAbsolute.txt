@@ -1,0 +1,15 @@
+/Users/vovamv/RiderProjects/Laba5/Laba5/bin/Debug/net5.0/Laba5.deps.json
+/Users/vovamv/RiderProjects/Laba5/Laba5/bin/Debug/net5.0/Laba5.runtimeconfig.json
+/Users/vovamv/RiderProjects/Laba5/Laba5/bin/Debug/net5.0/Laba5.runtimeconfig.dev.json
+/Users/vovamv/RiderProjects/Laba5/Laba5/bin/Debug/net5.0/Laba5.dll
+/Users/vovamv/RiderProjects/Laba5/Laba5/bin/Debug/net5.0/ref/Laba5.dll
+/Users/vovamv/RiderProjects/Laba5/Laba5/bin/Debug/net5.0/Laba5.pdb
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.csprojAssemblyReference.cache
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.AssemblyInfoInputs.cache
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.AssemblyInfo.cs
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.csproj.CoreCompileInputs.cache
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.dll
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/ref/Laba5.dll
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.pdb
+/Users/vovamv/RiderProjects/Laba5/Laba5/obj/Debug/net5.0/Laba5.genruntimeconfig.cache
